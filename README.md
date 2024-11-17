@@ -1,0 +1,2 @@
+# Jumi-Journal
+Study programming
